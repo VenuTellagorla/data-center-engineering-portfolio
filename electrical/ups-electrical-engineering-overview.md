@@ -16,6 +16,6 @@ This project demonstrates key electrical engineering concepts used in mission-cr
 
 The example demonstrates how electrical system information can be used to evaluate equipment loading, available capacity, system redundancy, abnormal operating conditions, and UPS performance during commissioning and troubleshooting.
 
-![UPS Electrical Engineering Overview](ups-electrical-engineering-overview.png)
+![UPS Electrical Engineering Overview](Data Center UPS Engineering Infographic.png)
 
 > **Portfolio Notice:** All system configurations, equipment ratings, calculations, values, and scenarios shown here are fictional examples created solely for technical demonstration. No employer-confidential, customer, or site-specific information is included.
