@@ -1,50 +1,120 @@
-# Data Center Engineering Portfolio
+# Data Center Electrical Engineering Portfolio
 
-**Focus:** Critical Infrastructure • Electrical Systems • BMS/EPMS • Commissioning • Troubleshooting
+Technical portfolio demonstrating practical engineering concepts used in mission-critical data center infrastructure, with a focus on electrical power systems, UPS systems, BMS/EPMS monitoring, commissioning, and troubleshooting.
 
-This portfolio demonstrates practical engineering approaches used to support reliable, safe, and highly available data center infrastructure. All systems, values, diagrams, and scenarios are **fictional and generic** and do not contain proprietary employer information.
+## ⚡ Core Technical Areas
 
-## Portfolio Projects
+- MV/LV Electrical Power Distribution
+- Switchgear, Transformers & PDUs
+- UPS Systems & Battery Backup
+- ATS/STS & Critical Power Redundancy
+- Three-Phase Power Systems
+- BMS/EPMS Monitoring & Alarm Analysis
+- Electrical One-Line Diagrams
+- Commissioning & Functional Testing
+- Electrical Troubleshooting & Root Cause Analysis
+- SOP / MOP / EOP Execution
+- LOTO & Electrical Safety
+- Critical Facility Operations
 
-### 1. Critical Power One-Line & System Overview
-A simplified critical-power architecture showing the path from utility service through transformation, switchgear, UPS, PDU, and IT load, with standby generation and automatic transfer capability.
+---
 
-**Skills demonstrated:** MV/LV distribution, UPS, generators, ATS, PDUs, one-line interpretation, redundancy, critical power operations.
+## 🔌 Critical Power Distribution
 
-[View project](electrical/critical-power-one-line.md)
+Demonstrates a typical mission-critical electrical power path and redundant power architecture.
 
-### 2. BMS / EPMS Alarm & Trend Analysis
-A fictional operating scenario demonstrating how alarms and trends can be used to identify abnormal electrical conditions, prioritize response, validate equipment status, and escalate appropriately.
+**Topics:**
+- Utility-to-IT power distribution
+- MV/LV transformation
+- Switchgear and UPS systems
+- PDU distribution
+- A/B power redundancy
+- Critical-load reliability
 
-**Skills demonstrated:** BMS/EPMS, alarm response, trend analysis, power monitoring, incident response.
+[View Electrical Engineering Projects](electrical/)
 
-[View project](bms-epms/alarm-trend-analysis.md)
+---
 
-### 3. UPS / Generator / ATS Commissioning Test
-A generic functional test procedure for validating critical-power transfer and backup operation before operational handoff.
+## 🔋 UPS Electrical Engineering
 
-**Skills demonstrated:** commissioning, functional testing, IST concepts, test documentation, safety, pass/fail criteria.
+Engineering demonstration covering UPS architecture, capacity analysis, electrical calculations, commissioning, troubleshooting, and protection concepts.
 
-[View project](commissioning/critical-power-functional-test.md)
+**Topics:**
+- UPS N+1 redundancy
+- UPS loading and available capacity
+- kW / kVA / power-factor calculations
+- Three-phase current calculations
+- Functional testing and commissioning
+- UPS fault troubleshooting
+- Electrical protection concepts
 
-### 4. Electrical Troubleshooting Case Study
-A fictional loss-of-power scenario demonstrating a structured troubleshooting process from alarm detection through one-line review, field verification, fault isolation, recovery, and root-cause follow-up.
+[View UPS Electrical Engineering Overview](electrical/ups-electrical-engineering-overview.md)
 
-**Skills demonstrated:** troubleshooting, RCA, one-lines, electrical measurements, escalation, corrective actions.
+[View Data Center UPS Engineering Infographic](electrical/Data%20Center%20UPS%20Engineering%20Infographic.png)
 
-[View project](troubleshooting/pdu-power-loss-case-study.md)
+---
 
-## Technical Areas
+## 📊 BMS / EPMS Monitoring
 
-- Critical electrical infrastructure: switchgear, transformers, UPS, PDUs, generators, ATS/STS, batteries, VFDs
-- BMS / EPMS monitoring and alarm analysis
-- SOP / MOP / EOP execution concepts
-- LOTO and electrical safety awareness
-- Commissioning, functional testing, startup, and IST concepts
-- One-line diagrams, schematics, equipment documentation, and field measurements
-- Incident response, root-cause analysis, and corrective actions
-- Vendor and cross-functional coordination
+Demonstrates how monitoring systems can support critical-facility operations and electrical troubleshooting.
 
-## Important Note
+**Topics:**
+- Alarm monitoring
+- Electrical equipment status
+- Trend analysis
+- Load monitoring
+- Abnormal-condition identification
+- Event analysis
 
-This is an independent educational portfolio. It does not represent an actual production facility. No confidential diagrams, procedures, operating values, customer information, employer documentation, or site-specific infrastructure details are included.
+[View BMS / EPMS Project](bms-epms/)
+
+---
+
+## 🧪 Commissioning & Functional Testing
+
+Demonstrates a structured approach to validating critical electrical equipment before operational handoff.
+
+**Topics:**
+- Pre-functional checks
+- Functional performance testing
+- Input/output verification
+- UPS operating modes
+- Alarm verification
+- Transfer testing
+- Test-result documentation
+
+[View Commissioning Project](commissioning/)
+
+---
+
+## 🔍 Electrical Troubleshooting & RCA
+
+Demonstrates a systematic approach to investigating critical-power abnormalities and equipment events.
+
+**Methodology:**
+
+**Alarm / Event → Review One-Line → Verify Upstream Power → Check Protective Devices → Verify Equipment Status → Electrical Measurements → Isolate Fault → RCA → Corrective Action**
+
+[View Troubleshooting & RCA Project](troubleshooting/)
+
+---
+
+## 🛠 Engineering Skills Demonstrated
+
+`Critical Power` • `UPS` • `PDU` • `Switchgear` • `Transformers` • `ATS/STS` • `BMS/EPMS` • `Three-Phase Power` • `Commissioning` • `Functional Testing` • `Troubleshooting` • `RCA` • `Electrical One-Lines` • `LOTO` • `Critical Infrastructure`
+
+---
+
+## 🎯 Portfolio Purpose
+
+This portfolio was created to demonstrate practical electrical engineering and critical-infrastructure knowledge relevant to roles such as:
+
+- Data Center Operations Engineer
+- Electrical Engineer
+- Critical Facilities Engineer
+- Commissioning Engineer
+- Data Center Controls / Infrastructure Engineer
+
+---
+
+> **Portfolio Notice:** All diagrams, equipment ratings, calculations, values, test results, system configurations, and scenarios in this repository are independently created fictional examples for technical demonstration purposes. No employer-confidential, customer, proprietary, or site-specific information is included.
