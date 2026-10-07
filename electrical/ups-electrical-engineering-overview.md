@@ -21,7 +21,7 @@ During commissioning and troubleshooting, electrical parameters, equipment statu
 
 ## Engineering Demonstration
 
-![Data Center UPS Engineering Infographic](Data%20Center%20UPS%20Engineering%20Infographic.png)
+![Data Center UPS Engineering Infographic](Data Center UPS Engineering Infographic.png)
 
 The infographic demonstrates:
 
